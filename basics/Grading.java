@@ -1,4 +1,4 @@
-package com.rays.basics;
+package in.com.rays.basics;
 
 public class Grading{
 	public static void main(String[] args) {

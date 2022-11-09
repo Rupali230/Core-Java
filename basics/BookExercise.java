@@ -1,11 +1,11 @@
-package com.rays.basics;
+package in.com.rays.basics;
 
 public class BookExercise {
 
 	public static void main(String[] args) {
 	
 		for(int a=0; a<5; a++) {
-		int numbar=(int)(Math.random()*50);
+		int numbar=(int)(Math.random()*100);
 		System.out.println(numbar);
 	}
 	

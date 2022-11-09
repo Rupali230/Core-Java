@@ -1,5 +1,5 @@
 
-package com.rays.basics;
+package in.com.rays.basics;
 
 public class BookExercise2 {
 

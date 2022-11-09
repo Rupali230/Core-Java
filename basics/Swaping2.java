@@ -1,6 +1,5 @@
 
-
-package com.rays.basics;
+package in.com.rays.basics;
 
 public class Swaping2 {
 public static void main(String[] args) {
